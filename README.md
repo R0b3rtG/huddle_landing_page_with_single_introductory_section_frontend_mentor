@@ -4,7 +4,7 @@
 
 ---
 
-**Live link: <https://r0b3rtg-huddle-landing-page-with-single-introductory-section.netlify.app/>**
+**Live link: <https://r0b3rtg-huddle-single.netlify.app/>**
 
 ---
 
